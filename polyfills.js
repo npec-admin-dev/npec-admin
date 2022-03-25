@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\NPEC\Callpilot-Admin-FE\admin-fe\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! D:\My-Projects\NPEC\Callpilot-Admin-FE\admin-fe\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
